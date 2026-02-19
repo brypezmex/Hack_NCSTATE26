@@ -11,9 +11,11 @@
 This repository contains the code for our submission to **Hack_NCState 2026**, North Carolina State University's premier 24-hour hackathon. Hack_NCState is a collaborative event where participants build apps, hardware, or full-stack products from scratch in just one day.
 
 **Project Name:** NoirMore  
+**Teamates:** Mykie Xiong, Gavin Leano, Bryan Perez
 **Team Name:** IonEvenKnow  
 **Track:** Siren's Call (AI Ethics & Safety)
 
+To learn more about our project: [Devpost](https://devpost.com/software/noirmore?ref_content=user-portfolio&ref_feature=in_progress)
 ---
 
 ## 🧠 Problem Statement
